@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BotFramework-WebChat/14.customization-piping-to-redux/static/css/main.0cdabcaa.chunk.css",
-    "main.js": "/BotFramework-WebChat/14.customization-piping-to-redux/static/js/main.f8a0cbbd.chunk.js",
-    "main.js.map": "/BotFramework-WebChat/14.customization-piping-to-redux/static/js/main.f8a0cbbd.chunk.js.map",
+    "main.js": "/BotFramework-WebChat/14.customization-piping-to-redux/static/js/main.9a6d2575.chunk.js",
+    "main.js.map": "/BotFramework-WebChat/14.customization-piping-to-redux/static/js/main.9a6d2575.chunk.js.map",
     "runtime~main.js": "/BotFramework-WebChat/14.customization-piping-to-redux/static/js/runtime~main.ad88a3fe.js",
     "runtime~main.js.map": "/BotFramework-WebChat/14.customization-piping-to-redux/static/js/runtime~main.ad88a3fe.js.map",
-    "static/js/2.fc87e6bf.chunk.js": "/BotFramework-WebChat/14.customization-piping-to-redux/static/js/2.fc87e6bf.chunk.js",
-    "static/js/2.fc87e6bf.chunk.js.map": "/BotFramework-WebChat/14.customization-piping-to-redux/static/js/2.fc87e6bf.chunk.js.map",
+    "static/js/2.ab79036f.chunk.js": "/BotFramework-WebChat/14.customization-piping-to-redux/static/js/2.ab79036f.chunk.js",
+    "static/js/2.ab79036f.chunk.js.map": "/BotFramework-WebChat/14.customization-piping-to-redux/static/js/2.ab79036f.chunk.js.map",
     "index.html": "/BotFramework-WebChat/14.customization-piping-to-redux/index.html",
-    "precache-manifest.3135c6b95b0d433b99d610a69957a317.js": "/BotFramework-WebChat/14.customization-piping-to-redux/precache-manifest.3135c6b95b0d433b99d610a69957a317.js",
+    "precache-manifest.dd2db1154d737a8a40d10815abfede35.js": "/BotFramework-WebChat/14.customization-piping-to-redux/precache-manifest.dd2db1154d737a8a40d10815abfede35.js",
     "service-worker.js": "/BotFramework-WebChat/14.customization-piping-to-redux/service-worker.js",
     "static/css/main.0cdabcaa.chunk.css.map": "/BotFramework-WebChat/14.customization-piping-to-redux/static/css/main.0cdabcaa.chunk.css.map"
   }
